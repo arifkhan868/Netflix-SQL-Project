@@ -263,4 +263,6 @@ GROUP BY category;
 
 This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
-
+## Athur
+Name : Ariful Islam
+Email : arifkhan.nsd14@gmail.com
